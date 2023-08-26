@@ -5,9 +5,9 @@ UC Irvine Machine Learning Repository
 
 URL: [https://archive.ics.uci.edu/](https://archive.ics.uci.edu/)
 
-Potential data set: Iris - because it is one of the most common sets used for data science and I used it quite a bit for my courses,
+Potential data set: Wine - because I am interested in wine and would like to travel around the world and taste different wines and be able to identify them.
 
-but an alternative would be Wine - because I am interested in wine and would like to travel around the world and taste different wines and be able to identify them.
+Potential applications: See if wines from Europe tend to actually be better and if wines that score better from sommeliers (wine experts) have some chemical difference.
 
 ## Book that interests me
 Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics - W. N. Venables, D. M. Smith, and the R Core Team - Beginner
